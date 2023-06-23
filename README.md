@@ -13,7 +13,7 @@ Looking forward to collaborating with you!
 
 ## 💪 Skills
 
-- **Languages:** Go, Python, JavaScript, TypeScript, SQL, HTML, CSS
+- **Languages:** Go, Python, JavaScript
 
 ## 🏬 Featured Projects
 
