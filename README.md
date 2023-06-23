@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Miguel Flores 👨
 
-Welcome to my GitHub repository! I'm a passionate developer with a strong focus on Go, Python, and JavaScript. I love
-exploring new technologies and contributing to innovative projects. Feel free to explore my projects and don't hesitate
-to reach out if you have any questions or collaboration opportunities!
+Welcome to my GitHub repository! 
 
 ## 📫 How to Reach Me
 
@@ -16,11 +14,6 @@ Looking forward to collaborating with you!
 ## 💪 Skills
 
 - **Languages:** Go, Python, JavaScript, TypeScript, SQL, HTML, CSS
-
-## 🤝 Collaboration
-
-I'm open to interesting collaborations! If you have an exciting project in mind or if you think I can contribute to your
-team, feel free to contact me. I'm willing to explore new opportunities and contribute my skills to innovative projects.
 
 ## 🏬 Featured Projects
 
@@ -45,6 +38,11 @@ This project is a generic repository of MongoDB that can be used in any project 
 
 All my projects are licensed under the [MIT LICENSE](LICENSE). Feel free to check out the license details for more
 information.
+
+## 🤝 Collaboration
+
+I'm open to interesting collaborations! If you have an exciting project in mind or if you think I can contribute to your
+team, feel free to contact me. I'm willing to explore new opportunities and contribute my skills to innovative projects.
 
 Happy coding! 🚀
 
