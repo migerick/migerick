@@ -1,16 +1,51 @@
-### Hi there 👋
+# Hi there! 👋 I'm Miguel Flores 👨
 
-<!--
-**migerick/migerick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository! I'm a passionate developer with a strong focus on Go, Python, and JavaScript. I love
+exploring new technologies and contributing to innovative projects. Feel free to explore my projects and don't hesitate
+to reach out if you have any questions or collaboration opportunities!
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me through the following channels:
+
+- ✉️ Email: mfloresa.dev@gmail.com
+- 🧑‍💻 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/miguelflores-ing/)
+
+Looking forward to collaborating with you!
+
+## 💪 Skills
+
+- **Languages:** Go, Python, JavaScript, TypeScript, SQL, HTML, CSS
+
+## 🤝 Collaboration
+
+I'm open to interesting collaborations! If you have an exciting project in mind or if you think I can contribute to your
+team, feel free to contact me. I'm willing to explore new opportunities and contribute my skills to innovative projects.
+
+## 🏬 Featured Projects
+
+Here are some of my featured projects:
+
+### [Authentication by cookies]()
+
+This project is a simple authentication system that uses cookies to store the session information.
+
+- Languages Used: Go, GRPC, Protobuffers
+- Technologies and Tools:  Docker, Docker Composer, MongoDB, MongoDB Compass, MongoDB Atlas, MongoDB Go Driver, Go
+  GRPC, Protobuffers.
+
+### [Generic repository of MongoDB]()
+
+This project is a generic repository of MongoDB that can be used in any project that uses MongoDB as a database.
+
+- Languages Used: Go
+- Technologies and Tools:  Docker, Docker Composer, MongoDB
+
+## 📁 License
+
+All my projects are licensed under the [MIT LICENSE](LICENSE). Feel free to check out the license details for more
+information.
+
+Happy coding! 🚀
+
+
