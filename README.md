@@ -34,11 +34,6 @@ This project is a generic repository of MongoDB that can be used in any project 
 - Languages Used: Go
 - Technologies and Tools:  Docker, Docker Composer, MongoDB
 
-## 📁 License
-
-All my projects are licensed under the [MIT LICENSE](LICENSE). Feel free to check out the license details for more
-information.
-
 ## 🤝 Collaboration
 
 I'm open to interesting collaborations! If you have an exciting project in mind or if you think I can contribute to your
